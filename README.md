@@ -1,4 +1,6 @@
 🏠 Microsoft Fabric-activiteit monitoren in de Monitoring Hub
+
+
 📌 Projectdoel
 Dit project demonstreert hoe je een data lakehouse maakt en beheert met Microsoft Fabric. Het doel is om gestructureerde data efficiënt op te slaan en te verwerken, gebruikmakend van Dataflows en Spark Notebooks.
 
